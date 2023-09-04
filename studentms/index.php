@@ -58,7 +58,7 @@ include('includes/dbconnection.php');
        <div class="callbacks_container">
         <ul class="rslides" id="slider">
          <li>     
-          <h3>Student Management System</h3>      
+          <h3>Student Management System by masum ahmend</h3>      
            <p>Registered Students can Login Here</p>             
           <div class="readmore">
           <a href="user/login.php">Student Login<i class="glyphicon glyphicon-menu-right"> </i></a>
